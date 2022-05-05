@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kyw/alIsZw1jJ+6q5W1puIfJi61SKp6x11YmmtyMqPEKmMCRcKNOpPAQmjk/1uMP3B/4sAw2/i5don5+VdWqkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jerry\\Documents\\Spengies\\Ship_Points_-_Sharetrack_Starcore_Season_2\\Ship Points - Sharetrack Starcore Season 2\\CoreParts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jerry\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Jerry\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
